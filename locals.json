@@ -1,0 +1,116 @@
+[
+      {
+        "nombre": "Bar Espit Chupito",
+        "genero": ["jazz"]
+      },
+      {
+        "nombre": "Bar Musical Com-tu",
+        "genero": ["jazz"]
+      },
+      {
+        "nombre": "Bar La Confiteria",
+        "genero": ["soul"]
+      },
+      {
+        "nombre": "Jamboree",
+        "genero": ["jazz", "rock", "disco", "pop"]
+      },
+      {
+        "nombre": "Bar Musical Punto BCN",
+        "genero": ["rock", "punk", "disco"]
+      },
+      {
+        "nombre": "Bar Musical Revival",
+        "genero": ["rock", "pop"]
+      },
+      {
+        "nombre": "Bar Musical The Good Feeling",
+        "genero": ["reggaeton", "salsa"]
+      },
+      {
+        "nombre": "Bar Musical Ginger",
+        "genero": ["salsa"]
+      },
+      {
+        "nombre": "Ideal Cocktail's Bar",
+        "genero": ["clasica"]
+      },
+      {
+        "nombre": "Sala B",
+        "genero": ["disco", "pop"]
+      },
+      {
+        "nombre": "Bar Restaurante El último Ágave",
+        "genero": ["salsa"]
+      },
+      {
+        "nombre": "El Cafè de Les Delicies",
+        "genero": ["clasica"]
+      },
+      {
+        "nombre": "Razzmatazz",
+        "genero": ["rock", "punk", "disco"]
+      },
+      {
+        "nombre": "Bar Musical Velvet",
+        "genero": ["salsa"]
+      },
+      {
+        "nombre": "Sala-Escenari",
+        "genero": ["rock", "metal", "salsa"]
+      },
+      {
+        "nombre": "Sala Vol",
+        "genero": ["rock", "garage"]
+      },
+      {
+        "nombre": "Cocteleria Nosé",
+        "genero": ["rock"]
+      },
+      {
+        "nombre": "Restaurant Club Bananas",
+        "genero": ["salsa"]
+      },
+      {
+        "nombre": "Bar Restaurant Hard Rock Café",
+        "genero": ["rock"]
+      },
+      {
+        "nombre": "Bar Nevermind",
+        "genero": ["rock", "disco"]
+      },
+      {
+        "nombre": "Discoteca Mojito Club",
+        "genero": ["reggaeton", "salsa"]
+      },
+      {
+        "nombre": "Slow Barcelona Cocktails & Boite",
+        "genero": ["rock"]
+      },
+      {
+        "nombre": "Discoteca Restaurant Japones Shöko",
+        "genero": ["house"]
+      },
+      {
+        "nombre": "Milano Cocktail - Bar",
+        "genero": ["jazz", "rock", "country"]
+      },
+      {
+        "nombre": "Bar Musical Craft Barcelona",
+        "genero": ["blues", "rock"]
+      },
+      {
+        "nombre": "City Hall Barcelona",
+        "genero": ["clasica"]
+      },
+      {
+        "nombre": "Bar Ultramarinos",
+        "genero": ["salsa"]
+      },
+      {
+        "nombre": "Bar musical Le Standard",
+        "genero": ["blues", "rock"]
+      }
+  ]
+    
+    
